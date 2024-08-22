@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Palm!
 
-🔍 Currently seeking Data Analyst or Business Analyst position
-💼 Experienced Digital Marketer in online marketing agency
-👩‍🎓 Studied Master of Business Administration at Chiang Mai University, Thailand
-👩‍🎓 Studied Bachelor of Interior Architecture at Thammasat University, Thailand
+🔍 Currently seeking Data Analyst or Business Analyst position <br/>
+💼 Experienced Digital Marketer in online marketing agency <br/>
+👩‍🎓 Studied Master of Business Administration at Chiang Mai University, Thailand <br/>
+👩‍🎓 Studied Bachelor of Interior Architecture at Thammasat University, Thailand <br/>
 
 ## My skills
 - Technical skills: SQL, R, Python, Tableau, Looker Studio, Microsoft Office, Google Sheets, SPSS
@@ -14,9 +14,9 @@
 - [Excel functions] [Online Sales Analysis](https://medium.com/@palmprang/unlocking-online-sales-transaction-data-with-microsoft-excel-2ae0e749c58a)
 
 ## Contact me
-- Email: palmprang.ton@gmail.com
-- Linkedin: [https://www.linkedin.com/in/prang-tongkumgoon/](https://www.linkedin.com/in/prang-tongkumgoon/)
-- Another Portfolio: [datascienceportfol.io/prangtongkumgoon](datascienceportfol.io/prangtongkumgoon)
+Email: palmprang.ton@gmail.com <br/>
+Linkedin: [https://www.linkedin.com/in/prang-tongkumgoon/](https://www.linkedin.com/in/prang-tongkumgoon/) <br/>
+Another Portfolio: [datascienceportfol.io/prangtongkumgoon](datascienceportfol.io/prangtongkumgoon) <br/>
 
 
 <!--
