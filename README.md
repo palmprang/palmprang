@@ -10,8 +10,8 @@
 - Hard skills: Data Analysis, Digital Marketing Analysis, Corporate Financial Analysis, Content Creation
 
 ## Several of my projects
-- [SQL] [Walmart Sales Analysis](https://github.com/palmprang/SQL_WalmartSalesAnalysis)
-- [Excel functions] [Online Sales Analysis](https://medium.com/@palmprang/unlocking-online-sales-transaction-data-with-microsoft-excel-2ae0e749c58a)
+- [SQL] [Walmart’s Sales Symphony: A SQL-Driven Analysis](https://github.com/palmprang/SQL_WalmartSalesAnalysis)
+- [Excel functions] [Unlocking Online Sales Transaction Data with Microsoft Excel](https://medium.com/@palmprang/unlocking-online-sales-transaction-data-with-microsoft-excel-2ae0e749c58a)
 
 ## Contact me
 Email: palmprang.ton@gmail.com <br/>
