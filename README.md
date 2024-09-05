@@ -7,7 +7,7 @@
 
 ## My skills
 - Technical skills: SQL, R, Python, Tableau, Looker Studio, Microsoft Office, Google Sheets, SPSS
-- Hard skills: Data Analysis, Digital Marketing Analysis, Corporate Financial Analysis, Content Creation
+- Hard skills: Data Analysis, Digital Marketing Analysis, Corporate Financial Analysis, Statistics, Budget Allocation, Content Creation
 
 ## Several of my projects
 - [SQL] [Walmart’s Sales Symphony: A SQL-Driven Analysis](https://github.com/palmprang/SQL_WalmartSalesAnalysis)
