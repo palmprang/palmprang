@@ -11,8 +11,8 @@
 
 ## Several of my projects
 - [SQL] Walmart’s Sales Symphony: A SQL-Driven Analysis ([Github](https://github.com/palmprang/SQL_WalmartSalesAnalysis))
-- [SQL] From Code to Coast: A SQL-Powered Escape from an Abandoned Island ([Medium](https://medium.com/@palmprang/from-code-to-coast-a-sql-powered-escape-from-an-abandoned-island-เอาชีวิตรอดจากเกาะปริศนาด้วย-07fa34ac37e0))
-- [Excel functions] Unlocking Online Sales Transaction Data with Microsoft Excel ([Medium](https://medium.com/@palmprang/unlocking-online-sales-transaction-data-with-microsoft-excel-2ae0e749c58a))
+- [SQL] From Code to Coast: A SQL-Powered Escape from an Abandoned Island ([Medium(TH)](https://medium.com/@palmprang/from-code-to-coast-a-sql-powered-escape-from-an-abandoned-island-เอาชีวิตรอดจากเกาะปริศนาด้วย-07fa34ac37e0))
+- [Excel functions] Unlocking Online Sales Transaction Data with Microsoft Excel ([Medium(EN)](https://medium.com/@palmprang/unlocking-online-sales-transaction-data-with-microsoft-excel-2ae0e749c58a))
 
 ## Contact me
 Email: palmprang.ton@gmail.com <br/>
