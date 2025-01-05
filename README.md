@@ -18,7 +18,6 @@
 ## Contact me
 Email: palmprang.ton@gmail.com <br/>
 Linkedin: [https://www.linkedin.com/in/prang-tongkumgoon/](https://www.linkedin.com/in/prang-tongkumgoon/) <br/>
-Another Portfolio: [datascienceportfol.io/prangtongkumgoon](datascienceportfol.io/prangtongkumgoon) <br/>
 
 
 <!--
