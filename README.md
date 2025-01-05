@@ -6,7 +6,7 @@
 👩‍🎓 Studied Bachelor of Interior Architecture at Thammasat University, Thailand <br/>
 
 ## My skills
-- Technical skills: SQL, R, Python, Tableau, Looker Studio, Microsoft Office, Google Sheets, SPSS
+- Technical skills: SQL, R, Python, Tableau, PowerBI, Microsoft Office, Google Sheets, SPSS
 - Hard skills: Data Analysis, Digital Marketing Analysis, Corporate Financial Analysis, Statistics, Budget Allocation, Content Creation
 
 ## Several of my projects
