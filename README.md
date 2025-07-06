@@ -6,8 +6,10 @@
 👩‍🎓 Studied Bachelor of Interior Architecture at Thammasat University, Thailand <br/>
 
 ## My skills
-- Technical skills: SQL, R, Python, Tableau, PowerBI, Microsoft Office, Google Sheets, SPSS
-- Hard skills: Data Analysis, Digital Marketing Analysis, Corporate Financial Analysis, Statistics, Budget Allocation, Content Creation
+- Skills: Data Analysis, Digital Marketing Analysis, Budget Management, Project Management, Time Management, Communication, Adaptability
+- Computer Languages:  SQL, R, Python
+- Software: Microsoft Office Suite, Google Sheets, PowerBI, SPSS, Facebook Ads Manager
+- Languages: Thai (Native), English (TOEIC 815)
 
 ## Several of my projects
 - [SQL] Unveiling Hidden Insights: A Deep Dive into Chinook's Sales Data with SQL -- [Github](https://github.com/palmprang/SQL_A-Deep-Dive-into-Chinook-s-Sales-Data)
